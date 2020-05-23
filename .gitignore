@@ -1,2 +1,8 @@
 # Exclude the log
 .openshift_install.log
+
+# Ignore build
+build/
+
+# Ignore vendor
+bendor/
