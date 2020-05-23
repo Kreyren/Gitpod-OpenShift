@@ -1,0 +1,2 @@
+# Exclude the log
+.openshift_install.log
