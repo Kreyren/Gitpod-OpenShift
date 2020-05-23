@@ -1,0 +1,23 @@
+clouds:
+  gitpod:
+    auth:
+      # WTF?
+      auth_url: http://10.10.14.42:5000/v3
+
+      project_name: gitpod
+      # FIXME: Implement logic
+      username: strawberry
+      password: hellberry88
+      # WTF?
+      user_domain_name: Default
+      # WTF?
+      project_domain_name: Default
+  dev-env:
+    # WTF?
+    region_name: RegionOne
+    # WTF?
+    auth:
+      username: 'powerberry'
+      password: hellberry88
+      project_name: 'powerberry'
+      auth_url: 'https://10.10.14.22:5001/v2.0'
